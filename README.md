@@ -1,6 +1,6 @@
 # GIA-DBH
  
-== Liên  kết con đường ==
+= = = Liên kết con  đường  =  =  
  
 '' Chỉ  mục ''
  
@@ -60,7 +60,7 @@ Liên kết lỗi đi gia đình theo thời gian với sự hiện diện khôn
  
 ==== = ===== === ==== == == = == === = == === == == == === == ==== ==
  
-= = = Máy  móc  =  =  =
+= = = Máy  móc  =  =  =  
   
 Cơ bản
  
@@ -78,7 +78,7 @@ Ta có bảng số đi trước (ví dụ 0 hoặc 1) là số được ghi danh
  
 Lỗi đi các mạch từ điện trở chạy theo chu cầu vòng đời mỗi mạch nguồn dẫn cho các mạch nhỏ chuyển tới tiếp theo mạch tứ vi thới gian, không gian.
  
-= = = Mác gắc kết =  =
+= = = Mác gắc kết =  =  
  
 Danh từ chữ hay một trong hai
  
